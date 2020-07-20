@@ -13,13 +13,11 @@ The following is the test example:
 <img src="/Assets/test.PNG">
 
 
-Manager:
+`Manager`:
 ID, email address, Office number<br>
-Engineer:
+`Engineer`:
 ID, email address, GitHub<br>
-Intern:
+`Intern`:
 ID, email address, School<br>
 
 
-Deployed Application:
-https://pokoshih.github.io/TeamProfileGenerator/<br>
