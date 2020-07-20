@@ -2,9 +2,9 @@
 
 The Team Profile Generator is a command-line-input application run in Node that requests information from the user about members of an engineering team and generates an HTML file displaying that information. Before running the application the user must perform an npm install to install all required dependencies.
 Application:
-[![Watch the video](https://i.imgur.com/a/6cjRo8C)](https://youtu.be/r35JRrSmQm0)
+[![Watch the video](https://i.imgur.com/vl63XyM.png)](https://youtu.be/r35JRrSmQm0)
 Test:
-[![Watch the video](https://i.imgur.com/uo5Z6Hf)](https://youtu.be/_xCCypjslsY)
+[![Watch the video](https://i.imgur.com/GYPT0XF.png)](https://youtu.be/_xCCypjslsY)
 
 
 The following retrieved from the requirements:
