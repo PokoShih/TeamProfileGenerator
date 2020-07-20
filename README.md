@@ -14,8 +14,12 @@ The following is the test example:
 
 
 Manager:
-ID, email address, Office number
+ID, email address, Office number<br>
 Engineer:
-ID, email address, GitHub
+ID, email address, GitHub<br>
 Intern:
-ID, email address, School
+ID, email address, School<br>
+
+
+Deployed Application:
+https://pokoshih.github.io/TeamProfileGenerator/<br>
